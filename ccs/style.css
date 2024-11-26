@@ -2,7 +2,7 @@
 body {
     margin: 0;
     padding: 0;
-    background: url('/images/playstation-nintendo-xbox-steam-logos.jpg') no-repeat center center fixed;
+    background: url('../images/playstation-nintendo-xbox-steam-logos.jpg') no-repeat center center fixed;
     background-size: cover;
     color: #fff;
 }
